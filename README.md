@@ -7,6 +7,11 @@ Parametrische, 3D-druckbare Namensschilder:
 - Der Name wird **vertieft** ("invers") in die Oberseite eingraviert, **1 mm** tief
 - Die **Länge passt sich automatisch** an den Namen an – nichts wird abgeschnitten
 
+![Beispiel eines generierten Namensschilds](docs/beispiel.png)
+
+*Beispiel: erzeugt mit `name="Makerspace"` – das Loch sitzt am abgerundeten Ende,
+der Text ist vertieft eingraviert, die Länge passt sich automatisch an.*
+
 ## Voraussetzungen
 
 - [OpenSCAD](https://openscad.org/) (getestet mit Version 2026.06). Die automatische
