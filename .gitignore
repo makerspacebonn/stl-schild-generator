@@ -1,0 +1,9 @@
+# Generierte STL-Dateien
+out/
+
+# Temporäre Override-Datei der Windows-Skripte
+nametag_tmp.scad
+._nametag_tmp.scad
+
+# macOS
+.DS_Store
